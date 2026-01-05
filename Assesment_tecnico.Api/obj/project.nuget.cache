@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "PLYDSKotSck=",
-  "success": false,
+  "dgSpecHash": "z4JyynXyV1wpS7w5u1F1GnFUHkOE+kyy7A3ACa3Ie9YzqsTHZ7y+nr0QIgQDzfgHeNMbhZR2WJZu/kf3U5wO+Q==",
+  "success": true,
   "projectFilePath": "/home/Coder/Descargas/Cursos-online/Assesment_tecnico.Api/Assesment_tecnico.Api.csproj",
   "expectedPackageFiles": [
     "/home/Coder/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
@@ -65,17 +65,5 @@
     "/home/Coder/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
     "/home/Coder/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for '/home/Coder/Descargas/Cursos-online/Assesment_tecnico.Shared/Assesment_tecnico.Shared.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "projectPath": "/home/Coder/Descargas/Cursos-online/Assesment_tecnico.Api/Assesment_tecnico.Api.csproj",
-      "filePath": "/home/Coder/Descargas/Cursos-online/Assesment_tecnico.Api/Assesment_tecnico.Api.csproj",
-      "libraryId": "/home/Coder/Descargas/Cursos-online/Assesment_tecnico.Shared/Assesment_tecnico.Shared.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

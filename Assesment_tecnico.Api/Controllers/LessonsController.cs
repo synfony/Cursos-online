@@ -89,7 +89,7 @@ namespace Assesment_tecnico.Api.Controllers
             lesson.UpdatedAt = DateTime.UtcNow;
             
             var remainingLessons = await _context.Lessons
-                .Where(l => l.CourseId == lesson.CourseId && !l.IsDeleted)
+                .Where(l => l.CourseId == lesson.CourseId && !l.IsDeleted && l.Id != id) // Exclude the deleted lesson
                 .OrderBy(l => l.Order)
                 .ToListAsync();
             

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/Coder/RiderProjects/Assesment_tecnico/Assesment_tecnico.Shared/Assesment_tecnico.Shared.csproj": {}
+    "/home/Coder/Descargas/Cursos-online/Assesment_tecnico.Shared/Assesment_tecnico.Shared.csproj": {}
   },
   "projects": {
-    "/home/Coder/RiderProjects/Assesment_tecnico/Assesment_tecnico.Shared/Assesment_tecnico.Shared.csproj": {
+    "/home/Coder/Descargas/Cursos-online/Assesment_tecnico.Shared/Assesment_tecnico.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/Coder/RiderProjects/Assesment_tecnico/Assesment_tecnico.Shared/Assesment_tecnico.Shared.csproj",
+        "projectUniqueName": "/home/Coder/Descargas/Cursos-online/Assesment_tecnico.Shared/Assesment_tecnico.Shared.csproj",
         "projectName": "Assesment_tecnico.Shared",
-        "projectPath": "/home/Coder/RiderProjects/Assesment_tecnico/Assesment_tecnico.Shared/Assesment_tecnico.Shared.csproj",
+        "projectPath": "/home/Coder/Descargas/Cursos-online/Assesment_tecnico.Shared/Assesment_tecnico.Shared.csproj",
         "packagesPath": "/home/Coder/.nuget/packages/",
-        "outputPath": "/home/Coder/RiderProjects/Assesment_tecnico/Assesment_tecnico.Shared/obj/",
+        "outputPath": "/home/Coder/Descargas/Cursos-online/Assesment_tecnico.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/Coder/.nuget/NuGet/NuGet.Config"
