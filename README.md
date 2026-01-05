@@ -91,4 +91,27 @@ La base de datos se inicializa automáticamente con un usuario de prueba si no e
 
 -   **Email / Username**: `admin@example.com`
 -   **Password**: `Password123!`
-```
+
+---
+
+## Testing
+
+La solución incluye un proyecto de tests unitarios (`Assesment_tecnico.Tests`) para validar las reglas de negocio clave.
+
+### Cómo Ejecutar los Tests
+
+1.  Abre una terminal en la raíz del proyecto (la carpeta que contiene el archivo `.sln`).
+2.  Ejecuta el siguiente comando:
+
+    ```bash
+    dotnet test
+    ```
+
+Este comando descubrirá, compilará y ejecutará todos los tests de la solución, mostrando los resultados en la terminal.
+
+---
+
+## Repositorio de GitHub
+
+Puedes encontrar el código fuente de este proyecto en el siguiente repositorio:
+[https://github.com/synfony/Cursos-online.git](https://github.com/synfony/Cursos-online.git)
